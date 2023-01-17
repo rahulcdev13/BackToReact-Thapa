@@ -1,0 +1,40 @@
+.mains {
+    border: 1px solid rgb(245, 240, 240);
+    box-shadow: 20px 20px 50px 15px grey;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.delteicon {
+    color: rgb(244, 9, 9);
+}
+.btndelte:hover{
+    color: red;
+    
+}
+
+.form-control {
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.titles {
+    margin-bottom: 10px;
+    color: rgb(98, 10, 120);
+    font-weight: bold;
+    padding: 5px;
+    text-shadow: 5px 5px 5px rgb(209, 240, 96);
+}
+
+.displa {
+    display: flex;
+}
+
+.todolist {
+    margin-top: 10px;
+    text-align: left;
+}
