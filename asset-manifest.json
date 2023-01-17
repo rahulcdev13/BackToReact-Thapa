@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BackToReact-Thapa/static/css/main.a69f99ed.css",
+    "main.js": "/BackToReact-Thapa/static/js/main.982336aa.js",
+    "index.html": "/BackToReact-Thapa/index.html",
+    "main.a69f99ed.css.map": "/BackToReact-Thapa/static/css/main.a69f99ed.css.map",
+    "main.982336aa.js.map": "/BackToReact-Thapa/static/js/main.982336aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69f99ed.css",
+    "static/js/main.982336aa.js"
+  ]
+}
