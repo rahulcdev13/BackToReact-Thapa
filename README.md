@@ -1,3 +1,13 @@
+#Git Steps : 
+git init //initialise git in your project
+git add . //add all project file
+git commit -m "first commit"
+git remote add origin https://github.com/rahulcdev13/BackToReact-Thapa.git
+git branch -M main
+git push -u origin main
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
