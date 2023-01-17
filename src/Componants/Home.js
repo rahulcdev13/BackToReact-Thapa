@@ -8,7 +8,7 @@ const Home = () => {
   const { name, lname } = useParams();
   return (
     <>
-      <h1 >Hello User {name} {lname} page is here ...!  </h1>
+      <h1 >Hello mr.samat  User {name} {lname} page is here ...!  </h1>
       <p>My Current Location is {Location.pathname}</p>
       {Location.pathname === `/home/rahul/chavan` ? <button className='btn btn-danger' onClick={() => { alert('Its Awesome rahul..!') }}>Click me</button> : ''}
       <h1 style={{ color: "green" }}>GeeksForGeeks</h1>
