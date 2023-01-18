@@ -30,6 +30,7 @@ import SearchFilter from './Componants/SearchFilter';
 function App() {  
   return (
     <>
+    
       <div className="App">
         {/* <Header /> */}
         {/* <NpmCounter /> */}
@@ -44,7 +45,7 @@ function App() {
         <Routes>
           <Route path="NpmCounter" element={<NpmCounter />} />
           <Route path="contact" element={<Contact />} />
-          <Route path="/" element={<About />} />
+          <Route exact path="/" element={<About />} />
           <Route path="home/:name/:lname" element={<Home />} />
           <Route path="searchFilter" element={<SearchFilter />} />
           <Route path='*' element={<NotFound />} /> 
